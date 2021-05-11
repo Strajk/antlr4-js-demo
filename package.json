@@ -1,0 +1,15 @@
+{
+  "name": "antlr4-js-demo",
+  "scripts": {
+    "main": "node index.js"
+  },
+  "type": "module",
+  "author": "Pavel 'Strajk' Dolecek <strajk@me.com> (https://www.strajk.me/)",
+  "license": "ISC",
+  "engines": {
+    "node": "16.1.0"
+  },
+  "dependencies": {
+    "antlr4": "^4.9.2"
+  }
+}
